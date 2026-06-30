@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 520" width="440" height="520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1730"/>
+      <stop offset="1" stop-color="#0a0f1e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6dd96"/>
+      <stop offset="1" stop-color="#c2902f"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="520" fill="url(#bg)"/>
+  <circle cx="220" cy="205" r="78" fill="none" stroke="url(#gold)" stroke-width="3" opacity="0.7"/>
+  <circle cx="220" cy="178" r="30" fill="url(#gold)" opacity="0.85"/>
+  <path d="M165 250c8-30 32-44 55-44s47 14 55 44" fill="url(#gold)" opacity="0.85"/>
+  <text x="220" y="350" text-anchor="middle" font-family="'Space Grotesk', Arial, sans-serif" font-size="22" font-weight="700" fill="#eef2fb">Luis Rivera</text>
+  <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8b96ad">Add your photo as</text>
+  <text x="220" y="404" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#e3c069">assets/headshot.jpg</text>
+</svg>
